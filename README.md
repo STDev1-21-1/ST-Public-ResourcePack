@@ -18,7 +18,7 @@ This resource pack is intended **only for authorized SlimeThrone servers**.
 
 Use of the pack, its textures, models, sounds, fonts, configuration, or other included assets outside the SlimeThrone server network is not permitted unless explicit written permission is granted by SlimeThrone.
 
-See [LICENSE](LICENSE) for the full terms.
+See [LICENSE](https://github.com/STDev1-21-1/ST-Public-ResourcePack/blob/main/LICENSE.md) for the full terms.
 
 ## Minecraft Notice
 
